@@ -9,10 +9,10 @@ npm install express@4 @types/express@4 --save
 
 FRONTEND
 
-Npm install 
+npm install 
 
-Npm install react-router-dom
+npm install react-router-dom
 
-Npm install react-bootstrap
+npm install react-bootstrap
 
-Npm install axios
+npm install axios
